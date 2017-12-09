@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "469899114101",
+    "project_id": "parking-memo-1512702266746"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469899114101:android:642e7b13e6d7257d",
+        "android_client_info": {
+          "package_name": "com.vannakittikun.parkingmemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469899114101-1elir1db72svbum121eq1chjv55k19k5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "469899114101-vqdf3ulcsp3ig018rtfal1008hssrvv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vannakittikun.parkingmemo",
+            "certificate_hash": "bece1c2f22837847f96f4495f4518e136fa5f842"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdhtMVrdebSm_VOIvDV9WD_Q-1VEKGbZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
